@@ -29,7 +29,7 @@
  
  <h2><details>
   <summary><b>My github stats</b></summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youtubeslgeekshow" alt="youtubeslgeekshow" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dinukamalith" alt="Dinukamalith" /></a> </p>
  </details></h2>
  
 
